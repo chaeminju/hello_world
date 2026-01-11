@@ -1,4 +1,4 @@
-#No. 1546 평균
+# No. 1546 평균
 
 N=int(input())
 arr=list(map(int, input().split()))
@@ -12,7 +12,7 @@ for i in range(N):
 print(sum/N)
 
 
-#No. 1157 단어공부
+# No. 1157 단어공부
 S=input().upper()
 
 arr=[0 for i in range(26)]
@@ -34,7 +34,7 @@ for i in range(26):
 print(result.upper())
 
 
-#1316 그룹 단어 체커
+# No. 1316 그룹 단어 체커
 N=int(input())
 result=0
 
